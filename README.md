@@ -1,6 +1,9 @@
 # Mario More
 
-This is the second project of the CS50x course. The goal is to recreate a pyramid similar to the one in the classic game Mario.
+This is the second project of the CS50x course.  
+The goal is to recreate a half-pyramid similar to the one in the classic Mario game.  
+
+This version has been adapted to run **without** the CS50 library, so anyone can compile and run it using only a standard C compiler.
 
 ## What it does
 
